@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi, I'm otmojo 👋
 
-<!--
-**otmojo/otmojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer interested in how **media systems** work at scale.
 
-Here are some ideas to get you started:
+Rather than focusing on surface-level features, I’m curious about the **infrastructure and system design** behind:
+- high-traffic ad delivery
+- data-intensive pipelines
+- systems that need to be both **fast and reliable**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I try to understand not only *how* systems are built, but *why* certain trade-offs are made.
+
+---
+
+### What I’m interested in
+
+- **Scalability**  
+  How backend systems handle increasing traffic, data volume, and complexity
+
+- **Data & Backend Systems**  
+  APIs, databases, and services that support real business decisions
+
+---
+
+### Technical background
+
+- Backend development (Java / Python / JavaScript)
+- Web application development
+- SQL-based data access and basic data processing
+- Experience working with APIs and production systems
+
+I value clear system design, readable code, and long-term maintainability.
+
+---
+
+### GitHub overview
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otmojo&layout=compact&hide_border=true)
+
+---
+
+Thanks for stopping by.
