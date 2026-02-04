@@ -1,41 +1,44 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="72%" valign="top">
-
 ## Hi, I'm otmojo 👋
 
-I’m a software engineer interested in how **media systems** work at scale.
+I'm a software engineer focused on backend systems and infrastructure, especially in environments where performance, reliability, and data volume matter.
 
-Rather than focusing on surface-level features, I’m curious about the **infrastructure and system design** behind:
-- high-traffic ad delivery
-- data-intensive pipelines
-- systems that need to be both **fast and reliable**
+I'm interested in how large-scale systems actually work in production — from request handling and data pipelines to service coordination and operational trade-offs.
 
-I try to understand not only *how* systems are built, but *why* certain trade-offs are made.
+Rather than chasing surface features, I focus on:
 
----
-
-### Technical background
-
-- Backend development (Java / Python / JavaScript)
-- Web application development
-- SQL-based data access and basic data processing
-- Experience working with APIs and production systems
-
-I value clear system design, readable code, and long-term maintainability.
+- building reliable backend services
+- designing clear system boundaries
+- understanding performance bottlenecks
+- making engineering trade-offs explicit
 
 ---
 
-### Connect
+### Technical focus
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="18" /> LinkedIn](https://www.linkedin.com/in/zhe-w-42aa25398)  
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="18" /> Instagram](https://www.instagram.com/lowlevelacrobat)
+- Backend development: Java / Python / JavaScript
+- REST APIs and service-oriented systems
+- SQL-based data access and basic data pipelines
+- Production debugging and system behavior analysis
 
-Thanks for stopping by.
+Currently learning more about:
 
-  </td>
-    <td width="28%" align="center" >
-      <img src="https://c.tenor.com/7w6xms0UDSoAAAAC/tenor.gif" width="250" />
-    </td>
-  </tr>
-</table>
+- concurrency and synchronization
+- system performance (latency / throughput)
+- data consistency and failure modes
+
+---
+
+### Engineering values
+
+- simple architectures over clever abstractions  
+- observable systems over hidden magic  
+- maintainable code over premature optimization  
+
+I care about understanding *why* systems are designed a certain way, not just how to implement them.
+
+---
+
+### Links
+
+- LinkedIn: https://www.linkedin.com/in/zhe-w-42aa25398
+- Instagram: https://www.instagram.com/lowlevelacrobat
