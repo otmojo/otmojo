@@ -2,7 +2,7 @@
 
 - Backend: Java / Python / JavaScript
 - Infrastructure: REST APIs, SQL-based data pipelines, and service coordination.
-- Current Deep Dives: I am currently refining my understanding of concurrency, synchronization, and data consistency models—the areas where software is most prone to subtle, costly errors.
+- Current Deep Dives: I am currently refining my understanding of concurrency, synchronization, and data consistency models.
 
 ---
 
