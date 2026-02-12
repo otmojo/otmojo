@@ -1,4 +1,4 @@
-## Hi, I'm otmojo 👋
+## Hi, I'm otmojo / lowlevelacrobat 👋
 
 - I build things to understand how they break.
   
