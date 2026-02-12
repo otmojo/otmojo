@@ -1,8 +1,12 @@
 ## Hi, I'm otmojo 👋
 
-- Backend: Java / Python / JavaScript
-- Infrastructure: REST APIs, SQL-based data pipelines, and service coordination.
-- Current Deep Dives: I am currently refining my understanding of concurrency, synchronization, and data consistency models.
+- I build things to understand how they break.
+  
+- Deep Dives: Concurrency models, Storage engines, Data consistency and fault tolerance
+
+- Currently working on: A Rust-based LSM engine with crash recovery simulation and experiments on WAL durability, fsync semantics, and write amplification
+
+
 
 ---
 
