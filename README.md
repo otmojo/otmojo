@@ -6,5 +6,6 @@
 ### Links
 - LinkedIn: https://www.linkedin.com/in/zhe-w-42aa25398
 - Instagram: https://www.instagram.com/lowlevelacrobat
+- Qiita: https://qiita.com/otmojo
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otmojo&theme=default)
