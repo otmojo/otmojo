@@ -1,7 +1,7 @@
 ## Hi, I'm otmojo 👋
 
 ### My Goal
-- Measure durability cost under fsync-heavy workload.
+- Measure durability cost well.
 
 ### Links
 - LinkedIn: https://www.linkedin.com/in/zhe-w-42aa25398
