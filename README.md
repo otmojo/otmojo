@@ -1,8 +1,6 @@
 <h3 align="center">Hi, I'm otmojo 👋</h1>
 
-<p align="center">
-<sub>I'm interested in how systems behave at their limits — how they degrade, how they recover, and how they stay trustworthy under imperfect conditions. I care less about whether something runs, and more about how it breaks under pressure, and whether it can recover gracefully.</sub>
-</p>
+
 
 <p align="center">
 🌱 Currently exploring low-level systems and reliability with Rust / Linux, and building visualization tools with Python.
