@@ -3,9 +3,9 @@
 
 
 <p align="center">
-🌱 Currently exploring low-level systems and reliability with Rust / Linux, and building visualization tools with Python.
+🌱 Currently exploring low-level systems and reliability, and building visualization tools.
 <br/>
-📝 I write up what I learn (and break) on Qiita — feedback always welcome.
+📝 I write up what I learn (and break) on Qiita.
 </p>
 
 <br/>
@@ -14,6 +14,7 @@
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
